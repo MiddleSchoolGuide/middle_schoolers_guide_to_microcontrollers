@@ -1,2 +1,2 @@
-# Middle Schooler's Guide to Microcontrollers
+# Middle Schooler's Guide To Fun With Microcontrollers
 
